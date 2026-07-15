@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.62cf9e41.css",
-    "main.js": "/static/js/main.1d51a5d7.js",
+    "main.css": "/static/css/main.d441a6ad.css",
+    "main.js": "/static/js/main.46a7ad3c.js",
+    "static/media/about-car.png": "/static/media/about-car.97f22e0a3a32190a2c8e.png",
+    "static/media/bg.jpg": "/static/media/bg.ae47df09c8da0973d474.jpg",
     "static/media/superadmin-bg.jpg": "/static/media/superadmin-bg.fcebb5a9ba99f7fb3b9b.jpg",
     "static/media/Poppins-Regular.woff2": "/static/media/Poppins-Regular.9641d5d087bc9e626d4c.woff2",
     "static/media/Poppins-SemiBold.woff2": "/static/media/Poppins-SemiBold.b2be0bf638eacbb24415.woff2",
@@ -11,11 +13,11 @@
     "static/media/placeholder-car.jpg": "/static/media/placeholder-car.d58ea6a50be976cb794a.jpg",
     "static/media/Logo.svg": "/static/media/Logo.c39cf6ccbf0bf806e58d8f6f37224260.svg",
     "index.html": "/index.html",
-    "main.62cf9e41.css.map": "/static/css/main.62cf9e41.css.map",
-    "main.1d51a5d7.js.map": "/static/js/main.1d51a5d7.js.map"
+    "main.d441a6ad.css.map": "/static/css/main.d441a6ad.css.map",
+    "main.46a7ad3c.js.map": "/static/js/main.46a7ad3c.js.map"
   },
   "entrypoints": [
-    "static/css/main.62cf9e41.css",
-    "static/js/main.1d51a5d7.js"
+    "static/css/main.d441a6ad.css",
+    "static/js/main.46a7ad3c.js"
   ]
 }
